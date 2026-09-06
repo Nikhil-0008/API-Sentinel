@@ -531,7 +531,7 @@ POST /api/security/unblock/<event_id>
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone (https://github.com/Nikhil-0008/API-Sentinel.git)
 cd api-sentinel
 ```
 
